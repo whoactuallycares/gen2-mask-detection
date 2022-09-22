@@ -1,0 +1,7 @@
+version: 1.1.5
+image: tommy/gen2-mask-detection
+name: Gen2 Mask Detection
+description: Application for detecting people's faces and wheather or not they're wearing masks
+url: https://github.com/whocatuallycares/gen2-mask-detection
+language: python
+
